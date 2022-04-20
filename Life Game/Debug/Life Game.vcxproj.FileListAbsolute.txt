@@ -1,0 +1,3 @@
+C:\Users\alexb\source\repos\Life Game\Life Game\Debug\Life Game.vcxproj.AssemblyReference.cache
+C:\Users\alexb\source\repos\Life Game\Life Game\Debug\LifeGame.LifeGame.resources
+C:\Users\alexb\source\repos\Life Game\Life Game\Debug\Life Game.vcxproj.GenerateResource.cache
